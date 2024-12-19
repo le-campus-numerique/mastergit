@@ -8,5 +8,8 @@ def main():
 def greet_user(username):
     print(f"Hello, {username}! We hope you enjoy the tutorial!")
 
+def feature3_function1():
+    print("This is a feature3 function1.")
+
 if __name__ == "__main__":
     main()
